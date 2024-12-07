@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
     bottom: 0,
     zIndex: 50,
     width: "100%",
-    height: 350,
+    height: 650,
   },
   touchableOpacityBase: {
     position: "absolute",
