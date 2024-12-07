@@ -99,6 +99,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     flexDirection: "column",
+    height: "80%",
   },
   closeButton: {
     position: "absolute",
